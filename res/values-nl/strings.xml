@@ -37,7 +37,7 @@
   <string name="menu_shuffle_album">Album shufflen</string>
   <string name="menu_shuffle_artist">Artiest shufflen</string>
   <string name="menu_shuffle_top_tracks">Topnummers shufflen</string>
-  <string name="menu_shuffle_recent">Recent afgespeelde nummer shufflen</string>
+  <string name="menu_shuffle_recent">Recent afgespeelde nummers shufflen</string>
   <string name="menu_shuffle_last_added">Laatst toegevoegd shufflen</string>
   <string name="menu_play_all">Alles afspelen</string>
   <string name="menu_sort_by">Sorteren op</string>

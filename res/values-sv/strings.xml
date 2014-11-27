@@ -17,8 +17,73 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Musik</string>
+  <string name="page_recent">Senaste</string>
   <string name="page_artists">Artister</string>
   <string name="page_albums">Album</string>
+  <string name="page_songs">Låtar</string>
+  <string name="page_playlists">Spellistor</string>
   <string name="page_genres">Genrer</string>
   <string name="header_albums">Album</string>
+  <string name="header_top_songs">Bästa låtarna</string>
+  <string name="header_all_songs">Alla låtar</string>
+  <string name="menu_settings">Inställningar</string>
+  <string name="menu_search">Sök</string>
+  <string name="menu_shuffle_album">Slumpa album</string>
+  <string name="menu_play_all">Spela alla</string>
+  <string name="menu_sort_by">Sortera efter</string>
+  <string name="menu_clear_list">Töm lista</string>
+  <string name="menu_clear_recents">Rensa senaste</string>
+  <string name="menu_save_queue">Spara kö</string>
+  <string name="sort_order_entry_az">A-Ö</string>
+  <string name="sort_order_entry_za">Ö-A</string>
+  <string name="sort_order_entry_artist">Artist</string>
+  <string name="sort_order_entry_album">Album</string>
+  <string name="sort_order_entry_year">År</string>
+  <string name="sort_order_entry_duration">Längd</string>
+  <string name="sort_order_entry_date_added">Tillagd</string>
+  <string name="sort_order_entry_track_list">Låtlista</string>
+  <string name="sort_order_entry_number_of_songs">Antal låtar</string>
+  <string name="sort_order_entry_number_of_albums">Antal album</string>
+  <string name="sort_order_entry_filename">Filnamn</string>
+  <string name="playlist_last_added">Senast tillagd</string>
+  <string name="new_playlist">Ny spellista</string>
+  <string name="save">Spara</string>
+  <string name="cancel">Avbryt</string>
+  <string name="overwrite">Skriv över</string>
+  <string name="clear">Rensa</string>
+  <string name="new_playlist_name_template">Spellista <xliff:g id="number">%d</xliff:g></string>
+  <string name="delete_dialog_title">Ta bort <xliff:g id="item" example="album">%s</xliff:g>?</string>
+  <string name="cannot_be_undone">Detta kan inte ångras</string>
+  <string name="new_photo">Välj foto från galleri</string>
+  <string name="google_search">Sök på Google</string>
+  <string name="context_menu_play_selection">Spela</string>
+  <string name="context_menu_rename_playlist">Byt namn</string>
+  <string name="context_menu_delete">Ta bort</string>
+  <string name="context_menu_fetch_album_art">Hämta albumomslag</string>
+  <string name="context_menu_fetch_artist_image">Hämta artistbild</string>
+  <string name="context_menu_remove_from_recent">Ta bort från senaste</string>
+  <string name="context_menu_use_as_ringtone">Använd som ringsignal</string>
+  <string name="accessibility_play">Spela</string>
+  <string name="settings_storage_category">Lagring</string>
+  <string name="settings_delete_cache_title">Ta bort cache</string>
+  <string name="header_4_to_5_minutes">4 - 5 minuter</string>
+  <string name="header_5_to_10_minutes">5 - 10 minuter</string>
+  <string name="header_10_to_30_minutes">10 - 30 minuter</string>
+  <string name="header_30_to_60_minutes">30 - 60 minuter</string>
+  <string name="header_greater_than_60_minutes">Längre än 60 minuter</string>
+  <string name="header_1_song">1 låt</string>
+  <string name="header_2_to_4_songs">2 - 4 låtar</string>
+  <string name="header_5_to_9_songs">5 - 9 låtar</string>
+  <string name="header_10_plus_songs">fler än 10 låtar</string>
+  <string name="header_5_plus_albums">Fler än 5 album</string>
+  <string name="footer_search_artists">Visa alla artister</string>
+  <string name="footer_search_albums">Visa alla album</string>
+  <string name="footer_search_songs">Visa alla låtar</string>
+  <string name="footer_search_playlists">Visa alla spellistor</string>
+  <string name="search_title_artists">Alla \"%s\" artister</string>
+  <string name="search_title_albums">Alla \"%s\" album</string>
+  <string name="search_title_songs">Alla \"%s\" låtar</string>
+  <string name="search_title_playlists">Alla \"%s\" spellistor</string>
+  <string name="duration_format"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
 </resources>

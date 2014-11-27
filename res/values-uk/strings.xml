@@ -103,7 +103,7 @@
   <string name="accessibility_repeat_one">Повторити одну</string>
   <string name="accessibility_queue">Відкрити чергу</string>
   <string name="accessibility_browse">Огляд музики</string>
-  <string name="set_as_ringtone">\"<xliff:g id="name"example="Alarm Bell">%s</xliff:g>\" встановити як мелодію дзвінка</string>
+  <string name="set_as_ringtone">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" встановити як мелодію дзвінка</string>
   <string name="playlist_renamed">Список відтворення перейменовано</string>
   <string name="settings_ui_category">Інтерфейс</string>
   <string name="settings_storage_category">Сховище</string>

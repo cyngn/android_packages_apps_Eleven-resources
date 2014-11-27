@@ -27,6 +27,7 @@
   <string name="page_now_playing">Aktuelle Wiedergabe</string>
   <string name="page_play_queue">Warteschlange abspielen</string>
   <string name="header_albums">Alben</string>
+  <string name="header_top_songs">Toptitel</string>
   <string name="header_all_songs">Alle Titel</string>
   <string name="menu_settings">Einstellungen</string>
   <string name="menu_search">Suche</string>
@@ -34,6 +35,8 @@
   <string name="menu_shuffle_all">Alles zufällig wiedergeben</string>
   <string name="menu_shuffle_playlist">Wiedergabeliste zufällig abspielen</string>
   <string name="menu_shuffle_album">Album zufällig wiedergeben</string>
+  <string name="menu_shuffle_artist">Titel dieses Interpreten zufällig wiedergeben</string>
+  <string name="menu_shuffle_top_tracks">Toptitel zufällig wiedergeben</string>
   <string name="menu_shuffle_recent">Kürzlich gehörte Titel zufällig wiedergeben</string>
   <string name="menu_shuffle_last_added">Zuletzt hinzugefügte Titel zufällig wiedergeben</string>
   <string name="menu_play_all">Alle wiedergeben</string>
@@ -59,13 +62,17 @@
   <string name="sort_order_entry_number_of_albums">Albenanzahl</string>
   <string name="sort_order_entry_filename">Dateiname</string>
   <string name="playlist_last_added">Zuletzt hinzugefügt</string>
+  <string name="playlist_recently_played">Zuletzt abgespielt</string>
+  <string name="playlist_top_tracks">Meine Toptitel</string>
   <string name="new_playlist">Neue Wiedergabeliste</string>
   <string name="save">Speichern</string>
   <string name="cancel">Abbrechen</string>
   <string name="overwrite">Überschreiben</string>
+  <string name="clear">Löschen</string>
   <string name="new_playlist_name_template">Wiedergabeliste <xliff:g id="number">%d</xliff:g></string>
   <string name="create_playlist_prompt">Name der Wiedergabeliste</string>
   <string name="delete_dialog_title"><xliff:g id="item">%s</xliff:g> löschen?</string>
+  <string name="clear_top_tracks_title">Toptitel löschen?</string>
   <string name="clear_recent_title">Liste der kürzlich gespielten Titel löschen?</string>
   <string name="clear_last_added">Liste der zuletzt hinzugefügten Titel löschen?</string>
   <string name="cannot_be_undone">Dies kann nicht rückgängig gemacht werden</string>
@@ -114,17 +121,20 @@
   <string name="no_effects_for_you">Der Equalizer konnte nicht geöffnet werden.</string>
   <string name="empty_music">Verwenden Sie ein USB-Kabel, um Musik von Ihrem Computer auf Ihr Gerät zu kopieren.</string>
   <string name="empty_search">Keine Suchergebnisse gefunden</string>
+  <string name="empty_search_check">Bitte überprüfen Sie, dass Sie die korrekte Schreibweise verwenden oder versuchen Sie ein anderes Stichwort.</string>
   <string name="empty_favorite">Als Favorit markierte Titel werden hier angezeigt.</string>
   <string name="empty_recent_main">Keine kürzlich gespielten Titel</string>
   <string name="empty_recent">Zuletzt gehörte Titel werden hier angezeigt.</string>
   <string name="empty_playlist_main">Keine Titel in der Wiedergabeliste</string>
   <string name="empty_playlist_secondary">Tippen Sie auf einen Titel, Künstler oder ein Album und wählen Sie \"Zur Wiedergabeliste hinzufügen\", um den jeweiligen Eintrag zu dieser Liste hinzuzufügen.</string>
+  <string name="empty_top_tracks_main">Keine Toptitel</string>
   <string name="empty_top_tracks_secondary">Meistgespielte Titel werden dieser Liste hinzugefügt.</string>
   <string name="empty_last_added_main">Keine kürzlich hinzugefügten Titel</string>
   <string name="empty_last_added">Hier werden Titel angezeigt, die innerhalb des letzten Monats hinzugefügt wurden.</string>
   <string name="empty_generic_main">Keine Musik gefunden</string>
   <string name="empty_generic_secondary">Verwenden Sie ein USB-Kabel, um Musik von Ihrem Computer auf das Gerät zu übertragen.</string>
   <string name="empty_queue_main">Keine Titel in der Warteschlange</string>
+  <string name="empty_queue_secondary">Um Titel zur Warteschlange hinzuzufügen: Das Optionsmenü eines Titels, Albums oder Interpreten berühren und \"Zur Warteschlange\" hinzufügen wählen.</string>
   <string name="header_unknown_year">Unbekanntes Jahr</string>
   <string name="header_less_than_30s">Weniger als 30 Sekunden</string>
   <string name="header_30_to_60_seconds">30 - 60 Sekunden</string>
